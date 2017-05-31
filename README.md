@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 1. Introduction to the workshop
 2. Introduction to linux
-  2. Introduction to directory structures and command line
+    2. Introduction to directory structures and command line
 
 ```markdown
 Syntax highlighted code block
