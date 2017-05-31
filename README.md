@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Workshop Program
 
-1. Introduction to the workshop
-2. Introduction to linux
-    - Introduction to directory structures and command line
+- Introduction to the workshop
+- Introduction to linux
+    1. Introduction to directory structures and command line
 
 ```markdown
 Syntax highlighted code block
