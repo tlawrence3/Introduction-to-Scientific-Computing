@@ -9,6 +9,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Introduction to the workshop
 - Introduction to linux
     1. Introduction to directory structures and command line
+        - Slides
+        - Worksheet
+        - Commands covered: `cd`, `mv`, `cp`, `rm`, `mkdir`, `less`, `ls`
+        - Concepts covered
+            - Using the terminal
+            - Directory structure
+            - Absolute vs. Relative path
+            - `$PATH` and where programs live
 
 ```markdown
 Syntax highlighted code block
