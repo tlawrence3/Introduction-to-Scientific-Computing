@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Introduction to Scientific Computing: A Crash Course workshop at Botany 2017
 
 You can use the [editor on GitHub](https://github.com/tlawrence3/Introduction-to-Scientific-Computing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
