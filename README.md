@@ -10,7 +10,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Introduction to linux
     1. Introduction to directory structures and command line
         - [Slides](Part1_1_Intro_to_File_Structures.pdf)
-        - [Worksheet](Worksheet1_1.docx)
+        - [Worksheet](Worksheet1_1.pdf)
         - Commands covered: `cd`, `mv`, `cp`, `rm`, `mkdir`, `less`, `ls`
         - Concepts covered
             - Using the terminal
@@ -19,7 +19,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
             - `$PATH` and where programs live
     2. Installing Software from package managers and source code
         - [Slides]()
-        - [Worksheet](Worksheet1_2.docx)
+        - [Worksheet](Worksheet1_2.pdf)
         - Concepts covered
             - Working with package managers
             - Compiling software
