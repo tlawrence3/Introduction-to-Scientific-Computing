@@ -10,13 +10,39 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Introduction to linux
     1. Introduction to directory structures and command line
         - [Slides](Part1_1_Intro_to_File_Structures.pdf)
-        - Worksheet
+        - [Worksheet]
         - Commands covered: `cd`, `mv`, `cp`, `rm`, `mkdir`, `less`, `ls`
         - Concepts covered
             - Using the terminal
             - Directory structure
             - Absolute vs. Relative path
             - `$PATH` and where programs live
+    2. Installing Software from package managers and source code
+        - [Slides]()
+        - [Worksheet]()
+        - Concepts covered
+            - Working with package managers
+            - Compiling software
+            - Using GitHub
+    3. Manipulating text data on command line
+        - [Slides](Part1_3.pdf)
+        - [Worksheet 1]()
+        - [Worksheet 2]()
+        - Commands covered: `wc`,`cut`,`paste`,`grep`,`head`,`tail`,`sort`,`uniq`,`tr`
+        - Concepts covered
+            - File structure
+            - Wildcards
+            - Piping commands
+    4. FAST and sequence data manipulation
+        - [Slides]()
+        - [Worksheet]()
+        - Concepts covered
+            - FAST(A/Q) data structure
+            - FAST utilities
+    5. Wrap-up and introduction to documentation
+        - [Slides]()
+        - Concepts covered
+            - Documentation of computional workflow for manuscripts
 
 ```markdown
 Syntax highlighted code block
