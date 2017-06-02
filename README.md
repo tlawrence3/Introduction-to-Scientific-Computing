@@ -44,6 +44,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
         - Concepts covered
             - Documentation of computional workflow for manuscripts
 
+- Introduction to Python
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tlawrence3/Introduction-to-Scientific-Computing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
