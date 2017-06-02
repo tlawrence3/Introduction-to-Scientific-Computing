@@ -27,7 +27,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
     3. Manipulating text data on command line
         - [Slides](Part1_3.pdf)
         - [Worksheet 1](worksheet3.1.1.pdf)
-        - [Worksheet 2]()
+        - [Worksheet 2](worksheet3.1.2.pdf)
         - Commands covered: `wc`,`cut`,`paste`,`grep`,`head`,`tail`,`sort`,`uniq`,`tr`
         - Concepts covered
             - File structure
