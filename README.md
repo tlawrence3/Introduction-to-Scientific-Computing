@@ -9,8 +9,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Introduction to the workshop
 - Introduction to linux
     1. Introduction to directory structures and command line
-        - [Slides](Part1_1_Intro_to_File_Structures.pdf)
-        - [Worksheet](Worksheet1_1.pdf)
+        - [Slides](Part1.1.Intro_to_File_Structures.pdf)
+        - [Worksheet](Worksheet1.1.pdf)
         - Commands covered: `cd`, `mv`, `cp`, `rm`, `mkdir`, `less`, `ls`
         - Concepts covered
             - Using the terminal
@@ -18,8 +18,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
             - Absolute vs. Relative path
             - `$PATH` and where programs live
     2. Installing Software from package managers and source code
-        - [Slides]()
-        - [Worksheet](Worksheet1_2.pdf)
+        - [Slides](Part1.2.Installing_Software_and_Package_Managers.pdf)
+        - [Worksheet](Worksheet1.2.pdf)
         - Concepts covered
             - Working with package managers
             - Compiling software
