@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - Introduction to the workshop
         - [Slides](INTRODUCTION.pdf)
+        - [Test link](https://github.com/tlawrence3/Introduction-to-Scientific-Computing/archive/master.zip)
 - Introduction to linux
     1. Introduction to directory structures and command line
         - [Slides](Part1.1.Intro_to_File_Structures.pdf)
