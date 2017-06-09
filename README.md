@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Workshop Program
 
 - Introduction to the workshop
+        - [Slides](INTRODUCTION.pdf)
 - Introduction to linux
     1. Introduction to directory structures and command line
         - [Slides](Part1.1.Intro_to_File_Structures.pdf)
@@ -25,17 +26,17 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
             - Compiling software
             - Using GitHub
     3. Manipulating text data on command line
-        - [Slides](Part1_3.pdf)
-        - [Worksheet 1](worksheet3.1.1.pdf)
-        - [Worksheet 2](worksheet3.1.2.pdf)
+        - [Slides](Part1.3.pdf)
+        - [Worksheet 1](Worksheet1.3.1.pdf)
+        - [Worksheet 2](Worksheet1.3.2.pdf)
         - Commands covered: `wc`,`cut`,`paste`,`grep`,`head`,`tail`,`sort`,`uniq`,`tr`
         - Concepts covered
             - File structure
             - Wildcards
             - Piping commands
     4. FAST and sequence data manipulation
-        - [Slides]()
-        - [Worksheet]()
+        - [Slides](Part1.4.FAST.pdf)
+        - [Worksheet](Worksheet1.4.pdf)
         - Concepts covered
             - FAST(A/Q) data structure
             - FAST utilities
