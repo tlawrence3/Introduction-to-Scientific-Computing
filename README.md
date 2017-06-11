@@ -47,6 +47,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
             - Documentation of computional workflow for manuscripts
 
 - Introduction to Python
+    1. Introduction to Python
+        - [Slides](Part2.1_Introduction_Python.pdf)
+        - [Worksheet]()
+        - Concepts covered
+            - Variables
+            - Printing
+            - Slices
 
 ### Jekyll Themes
 
