@@ -54,6 +54,21 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
             - Variables
             - Printing
             - Slices
+    2. Python: Loops, Lists, Files, and Modules
+        - [Slides]()
+        - [Worksheet]()
+        - Concepts covered
+            - Loops
+            - List data structure
+            - Reading files
+            - Loading modules
+     3. Python: Flow Control, Conditional Statements, and Dictionaries
+         - [Sildes]()
+         - [Worksheet]()
+         - Concepts covered
+             - If statements
+             - Logical operators
+             - Dictionary data structure
 
 ### Jekyll Themes
 
