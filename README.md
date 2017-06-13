@@ -55,7 +55,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
             - Printing
             - Slices
     2. Python: Loops, Lists, Files, and Modules
-        - [Slides]()
+        - [Slides](Part2.2.pdf)
         - [Worksheet]()
         - Concepts covered
             - Loops
@@ -69,6 +69,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
              - If statements
              - Logical operators
              - Dictionary data structure
+     4. Python: Biopython
+          - [Slides]()
+          - [Worksheet]()
+          - Concepts covered
 
 ### Jekyll Themes
 
