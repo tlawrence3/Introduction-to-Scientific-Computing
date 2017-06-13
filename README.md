@@ -42,7 +42,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
             - FAST(A/Q) data structure
             - FAST utilities
     5. Wrap-up and introduction to documentation
-        - [Slides]()
+        - [Slides](Part1.5.Documentation.pdf)
         - Concepts covered
             - Documentation of computional workflow for manuscripts
 
