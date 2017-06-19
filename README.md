@@ -1,4 +1,4 @@
-## Introduction to Scientific Computing at Botany 2017
+## Introduction to Scientific Computing Workshop at Botany 2017
 
 ### Workshop Program
 
