@@ -1,4 +1,4 @@
-## Introduction to Scientific Computing: A Crash Course workshop at Botany 2017
+## Introduction to Scientific Computing at Botany 2017
 
 ### Workshop Program
 
