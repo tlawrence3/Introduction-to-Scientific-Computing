@@ -59,7 +59,7 @@
             - Reading files
             - Loading modules
      3. Python: Flow Control, Conditional Statements, and Dictionaries
-         - [Sildes]()
+         - [Sildes](Part2.3.pdf)
          - [Worksheet]()
          - Concepts covered
              - If statements
