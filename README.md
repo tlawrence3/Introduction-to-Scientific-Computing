@@ -45,14 +45,14 @@
 - Introduction to Python
     1. Introduction to Python
         - [Slides](Part2.1_Introduction_Python.pdf)
-        - [Worksheet]()
+        - [Worksheet](Worksheet2.1.pdf)
         - Concepts covered
             - Variables
             - Printing
             - Slices
     2. Python: Loops, Lists, Files, and Modules
         - [Slides](Part2.2.pdf)
-        - [Worksheet]()
+        - [Worksheet](Worksheet2.2.pdf)
         - Concepts covered
             - Loops
             - List data structure
@@ -60,13 +60,13 @@
             - Loading modules
      3. Python: Flow Control, Conditional Statements, and Dictionaries
          - [Sildes](Part2.3.pdf)
-         - [Worksheet]()
+         - [Worksheet](Worksheet2.3.pdf)
          - Concepts covered
              - If statements
              - Logical operators
              - Dictionary data structure
      4. Python: Biopython
-          - [Slides]()
-          - [Worksheet]()
+          - [Slides](Part2.4.pdf)
+          - [Worksheet](Worksheet2.4.pdf)
           - Concepts covered
 
