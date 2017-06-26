@@ -65,8 +65,4 @@
              - If statements
              - Logical operators
              - Dictionary data structure
-     4. Python: Biopython
-          - [Slides](Part2.4.pdf)
-          - [Worksheet](Worksheet2.4.pdf)
-          - Concepts covered
-
+     
