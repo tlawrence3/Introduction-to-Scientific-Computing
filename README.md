@@ -1,5 +1,7 @@
 ## Introduction to Scientific Computing Workshop at Botany 2017
 
+Website: https://tlawrence3.github.io/Introduction-to-Scientific-Computing/
+
 ### Workshop Program
 
 - Introduction to the workshop
