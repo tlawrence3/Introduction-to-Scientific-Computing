@@ -39,8 +39,12 @@ Website: https://tlawrence3.github.io/Introduction-to-Scientific-Computing/
         - Concepts covered
             - FAST(A/Q) data structure
             - FAST utilities
-    5. Wrap-up and introduction to documentation
-        - [Slides](Part1.5.Documentation.pdf)
+    5. Using a cluter
+        - [Slides]
+        - [Worksheet]
+        - Concepts covered
+    6. Wrap-up and introduction to documentation
+        - [Slides](Part1.6.Documentation.pdf)
         - Concepts covered
             - Documentation of computional workflow for manuscripts
 
